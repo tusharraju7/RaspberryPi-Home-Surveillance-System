@@ -9,17 +9,17 @@ Grove Base Kit -> Temperatue,Humidity Sensors, LED Button, Relay
 
 Completed :
 
-Ability to commmunicate between Client( Mobile ) and Server(Raspberry Pi)
-Ability to detect faces when doorbell is pressed and unlock door(relay) if recognized
-Live Video Stream from Pi to Server
-Unlocking and Locking Door from phone
-Represent Temperature and Humidity Data
+1.Ability to commmunicate between Client( Mobile ) and Server(Raspberry Pi)
+2.Ability to detect faces when doorbell is pressed and unlock door(relay) if recognized
+3.Live Video Stream from Pi to Server
+4.Unlocking and Locking Door from phone
+5.Represent Temperature and Humidity Data
 
 In Development :
 
-Communication when client and server on different networks
-Database of last entries
-On motion video recording and storage
-Addition of face to face encoder
-Deletion of face
+1.Communication when client and server on different networks
+2.Database of last entries
+3.On motion video recording and storage
+4.Addition of face to face encoder
+5.Deletion of face
 ...
