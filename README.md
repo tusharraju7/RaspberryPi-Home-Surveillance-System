@@ -1,6 +1,5 @@
 # RaspberryPi-Home-Surveillance-System
 
-Note : Still in Development
 
 Components :
 Raspberry Pi
@@ -15,7 +14,7 @@ Completed :
 4.Unlocking and Locking Door from phone
 5.Represent Temperature and Humidity Data
 
-In Development :
+Possible Additions:
 
 1.Communication when client and server on different networks
 2.Database of last entries
